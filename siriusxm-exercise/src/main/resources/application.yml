@@ -1,0 +1,9 @@
+siriusxm:
+  s3:
+    bucket: sxm-dataservices-samples
+    key: incidents.xml.gz
+cloud:
+  aws:
+    region:
+      auto: false
+      static: us-east-1
